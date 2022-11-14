@@ -209,8 +209,6 @@
 "vehicles and fuel tanks": 4143,
 "special equipment": 154,
 "ID": 68569},
-
-
 {"created_at": "2022-14-10T12:00:00Z",
 "personnel": "64300",
 "tanks": "2521",
@@ -225,5 +223,5 @@
 "warships / boats": "16",
 "vehicles and fuel tanks": "3944",
 "special equipment": 142,
-"ID": 68470},
+"ID": 68470}
 ]}
